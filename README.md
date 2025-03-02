@@ -24,4 +24,5 @@ DA Bootcamp Challenge 20
 * Logistic regression was used because the values within the dataset were continuous (as opposed to categorical). The goal was to         predict the creditworthiness of a borrower based on the inputted financial data.
 
 ## Results
-* The accuracy score measures how many of the predictions were correct out of all the predictions made. In terms of this project, the accuracy score was very high, at about 99.3%. This indicates that about 99.3% of the predictions are accurate.
+* The *accuracy score* measures how many of the predictions were correct out of all the predictions made. In terms of this project, the accuracy score was very high, at about 99.3%. This indicates that about 99.3% of the predictions are accurate.
+* The *precision score* 
