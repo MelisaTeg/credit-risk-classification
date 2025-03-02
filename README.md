@@ -22,3 +22,6 @@ DA Bootcamp Challenge 20
   *  A confusion matrix was then generated to identify the number of true and false positives and negatives.
   *  Finally, the classification report function was used to show how accurate the predictions are compared to the original data.
 * Logistic regression was used because the values within the dataset were continuous (as opposed to categorical). The goal was to         predict the creditworthiness of a borrower based on the inputted financial data.
+
+## Results
+* The accuracy score measures how many of the predictions were correct out of all the predictions made. In terms of this project, the accuracy score was very high, at about 99.3%. This indicates that about 99.3% of the predictions are accurate.
