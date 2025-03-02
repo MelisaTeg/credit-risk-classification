@@ -21,5 +21,4 @@ DA Bootcamp Challenge 20
   *  Predictions were made based on the original testing data and placed into a DataFrame with the rows ordered by the index.
   *  A confusion matrix was then generated to identify the number of true and false positives and negatives.
   *  Finally, the classification report function was used to show how accurate the predictions are compared to the original data.
-* Logistic regression was used because the values within the dataset were continuous (as opposed to categorical). The goal was to     
-  predict the creditworthiness of a borrower based on the inputted financial data.
+* Logistic regression was used because the values within the dataset were continuous (as opposed to categorical). The goal was to         predict the creditworthiness of a borrower based on the inputted financial data.
